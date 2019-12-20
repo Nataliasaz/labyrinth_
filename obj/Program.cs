@@ -313,7 +313,7 @@ namespace labirint
                 {
                     
                         zz += maze[j] + "\r\n";
-                        Console.WriteLine("запись в файл");
+                        Console.WriteLine("Запись в файл");
             
                 }
                 ma++;
